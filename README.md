@@ -1,5 +1,5 @@
 # Calculator-node-js
-A javascript calculator where the user can type in the numbers and operators from the keyboard and also select the numbers and operators from the screen. Node js and express was used in this project.
+A javascript calculator where the user can type in the numbers and operators from the keyboard and also select the numbers and operators from the screen. Node js and Express was used in this project.
 # Demo:
 # Initial image
 ![calc_img](https://user-images.githubusercontent.com/57330415/161643336-ff4794b2-2004-4a07-9e71-6f01be7e2638.PNG)
