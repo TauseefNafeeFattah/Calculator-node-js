@@ -1,12 +1,11 @@
 # Calculator-node-js
 A javascript calculator where the user can type in the numbers and operators from the keyboard and also select them from the screen.
 # Demo:
-* initial image
+# initial image
 ![calc_img](https://user-images.githubusercontent.com/57330415/161643336-ff4794b2-2004-4a07-9e71-6f01be7e2638.PNG)
-* operation
+# operation
 ![calc_img_operator](https://user-images.githubusercontent.com/57330415/161643799-ea06fbc9-6ec0-4c51-b91b-a6d79dcae01c.PNG)
-
-* result
+# result
 ![calc_img_result](https://user-images.githubusercontent.com/57330415/161643811-33ed45e5-b384-429d-a30c-e13e56a774a6.PNG)
 
 # How to run it
